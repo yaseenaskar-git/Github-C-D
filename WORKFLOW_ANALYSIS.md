@@ -10,7 +10,7 @@ Firstly, it gets the code from the repository, then it validates the HTML file b
 To my understanding, checkout code creates a local version of the code for the workflow to run and test. 
 
 ### Question 4: What is the purpose of the environment configuration?
-The purpose if to make sure the code is deployed in github pages. 
+The purpose if to make sure the code is deployed in Github Pages. 
 
 ### Question 5: How does this automated deployment improve reliability compared to manual deployment?
 It checks for everything that can possibly go wrong that manual deployment sometimes misses. In addition, it tells what or where the problem is unlike manual deployment in which you have to spend time looking for it yourself.
